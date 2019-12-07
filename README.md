@@ -18,7 +18,7 @@
 - [Validators](#validators)  
 - [General](#general)  
 # Users
-## User  Basics
+## User Basics
 #### Q: How to create a wallet?
 Can currently be done via the [CLI]( https://xar-network.github.io/xar-network/installation.html), [javascript-sdk]( https://www.npmjs.com/package/@xar-network/javascript-sdk), [Xar Wallet](https://wallet.xar.network) (non custodial), or [Xar Portal](https://portal.xar.network) (custodial)
 #### Q: How to transfer funds from erc20/bep2 to Xar?
@@ -34,24 +34,24 @@ USD and FTM 1:1,000,000 so 1FTM = 1,000,000uftm
 You can mint, via the [CLI]( https://xar-network.github.io/xar-network/installation.html), [javascript-sdk]( https://www.npmjs.com/package/@xar-network/javascript-sdk), [Xar Wallet](https://wallet.xar.network), or [Xar Portal](https://portal.xar.network)
 #### Q: How to calculate how much CSDT I can create?
 [Xar Wallet](https://wallet.xar.network) has a calculator
-## Users  Staking
+## User Staking
 #### Q: How much staking rewards will I get?
 [Xar Wallet](https://wallet.xar.network) has a calculator
 #### Q: How much is currently staked?
 [Xar Wallet](https://wallet.xar.network) shows the current staked data, you can also view validators on [Xar Explorer](https://explorer.xar.network)
-## Users Auctions
+## User Auctions
 #### [Tutorial coming soon]( https://godoc.org/github.com/xar-network/xar-network/x/auction/client/cli)
-## Users Trading
+## User Trading
 #### [Tutorial coming soon]( https://godoc.org/github.com/xar-network/xar-network/x/order/client/cli)
-## Users Lending
+## User Lending
 #### [Functionality coming soon]( https://godoc.org/github.com/xar-network/xar-network/x/csdt/client/cli)
-## Users Liquidity pools
+## User Liquidity pools
 #### Functionality coming soon
-## Users Issuing tokens
+## User Issuing tokens
 #### [Tutorial coming soon]( https://godoc.org/github.com/xar-network/xar-network/x/issue/client/cli)
-## Users Issuing NFTs
+## User Issuing NFTs
 #### [Tutorial coming soon]( https://godoc.org/github.com/xar-network/xar-network/x/nft/client/cli)
-## Users Record Proofs
+## User Record Proofs
 #### [Tutorial coming soon]( https://godoc.org/github.com/xar-network/xar-network/x/record/client/cli)
 # Developers
 #### Q: Where can I find general resources?
