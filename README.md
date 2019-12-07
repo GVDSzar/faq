@@ -64,21 +64,21 @@ You can mint, via the [CLI]( https://xar-network.github.io/xar-network/installat
 #### Q: Where can I find documentation on the Auction Module?
 [Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/auction)
 #### Q: Where can I find documentation on the CSDT Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/csdt)
+[CSDT Module]( https://godoc.org/github.com/xar-network/xar-network/x/csdt)
 #### Q: Where can I find documentation on the Issue Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/issue)
+[Issue Module]( https://godoc.org/github.com/xar-network/xar-network/x/issue)
 #### Q: Where can I find documentation on the Liquidator Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/liquidator)
+[Liquidator Module]( https://godoc.org/github.com/xar-network/xar-network/x/liquidator)
 #### Q: Where can I find documentation on the Market Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/market)
+[Market Module]( https://godoc.org/github.com/xar-network/xar-network/x/market)
 #### Q: Where can I find documentation on the NFT Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/nft)
+[NFT Module]( https://godoc.org/github.com/xar-network/xar-network/x/nft)
 #### Q: Where can I find documentation on the Oracle Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/oracle)
+[Oracle Module]( https://godoc.org/github.com/xar-network/xar-network/x/oracle)
 #### Q: Where can I find documentation on the Order Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/order)
+[Order Module]( https://godoc.org/github.com/xar-network/xar-network/x/order)
 #### Q: Where can I find documentation on the Record Module?
-[Auction Module]( https://godoc.org/github.com/xar-network/xar-network/x/record)
+[Record Module]( https://godoc.org/github.com/xar-network/xar-network/x/record)
 ## Developer JavaScript / NodeJS
 #### Q: How can I interact with the chain?
 [JavaScript-SDK]( https://www.npmjs.com/package/@xar-network/javascript-sdk)
