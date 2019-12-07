@@ -1,17 +1,22 @@
 #Xar FAQ
 
 
-[Users](#users)  
-[User Basics](#user-basics)  
-[User CSDT](#user-csdt)  
-[User Auctions](#user-auctions)  
-[User Trading](#user-trading)  
-[User Lending](#user-lending)  
-[User Liquidity Pools](#user-liquidity-pools)  
-[User Issuing Tokens](#user-issuing-tokens)  
-[User Issuing NFTs](#user-issuing-nfts)  
-[User Record Proofs](#user-record-proofs)  
-[Developers](#developers)  
+- [Users](#users)  
+- [User Basics](#user-basics)  
+- [User CSDT](#user-csdt)  
+- [User Auctions](#user-auctions)  
+- [User Trading](#user-trading)  
+- [User Lending](#user-lending)  
+- [User Liquidity Pools](#user-liquidity-pools)  
+- [User Issuing Tokens](#user-issuing-tokens)  
+- [User Issuing NFTs](#user-issuing-nfts)  
+- [User Record Proofs](#user-record-proofs)  
+- [Developers](#developers)  
+- [Developer Blockchain](#developer-blockchain)  
+- [Developer JavaScript / NodeJS](#developer-javascript--nodejs)  
+- [Developer Web / HTTPS](#developer-web--https)  
+- [Validators](#validators)  
+- [General](#general)  
 # Users
 ## User  Basics
 #### Q: How to create a wallet?
@@ -86,7 +91,7 @@ You can mint, via the [CLI]( https://xar-network.github.io/xar-network/installat
 [Node REST API](https://node.xar.network)
 #### Q: Where can I find documentation in the API?
 [Xar Network REST API](https://docs.xar.network)
-# Developers
+# Validators
 #### Q: How do I install a Xar node?
 [Installing the Xar Node]( https://xar-network.github.io/xar-network/)
 #### Q: How do I join the mainnet?
