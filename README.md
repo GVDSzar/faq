@@ -1,17 +1,17 @@
 #Xar FAQ
 
 
-[Users](#users)
-[User Basics](#user-basics)
-[User CSDT](#user-csdt)
-[User Auctions](#user-auctions)
-[User Trading](#user-trading)
-[User Lending](#user-lending)
-[User Liquidity Pools](#user-liquidity-pools)
-[User Issuing Tokens](#user-issuing-tokens)
-[User Issuing NFTs](#user-issuing-nfts)
-[User Record Proofs](#user-record-proofs)
-[Developers](#developers)
+[Users](#users)  
+[User Basics](#user-basics)  
+[User CSDT](#user-csdt)  
+[User Auctions](#user-auctions)  
+[User Trading](#user-trading)  
+[User Lending](#user-lending)  
+[User Liquidity Pools](#user-liquidity-pools)  
+[User Issuing Tokens](#user-issuing-tokens)  
+[User Issuing NFTs](#user-issuing-nfts)  
+[User Record Proofs](#user-record-proofs)  
+[Developers](#developers)  
 # Users
 ## User  Basics
 #### Q: How to create a wallet?
