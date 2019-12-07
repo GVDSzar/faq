@@ -98,8 +98,6 @@ You can mint, via the [CLI]( https://xar-network.github.io/xar-network/installat
 [Joining the mainnet]( https://xar-network.github.io/xar-network/join-mainnet.html)
 #### Q: What should I know as a validator?
 [Validators Overview]( https://xar-network.github.io/xar-network/validators/overview.html)
-#### Q: What should I know as a validator?
-[Validators Overview]( https://xar-network.github.io/xar-network/validators/overview.html)
 #### Q: What should I know about security as a validator?
 [Validators Security]( https://xar-network.github.io/xar-network/validators/security.html)
 # General
