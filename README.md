@@ -1,4 +1,4 @@
-#Xar FAQ
+# Xar FAQ
 
 
 - [Users](#users)  
