@@ -30,17 +30,17 @@ CSSR allows you to take any supported asset, collateralize it, mint Collateraliz
 
 The system has quite a few fees, so we will go through the straight forward ones first (all fees are controlled via on-chain parameter governance);
 
-Liquidation fee (1% of lot), liquidation fees occur when a CSDT position is liquidated because it is under collateralized. The system takes a percentage of the CSDT raised on the auction and deposits it into the distribution module.
-Stability fee (2% configured via governance), the stability fee is the base cost to borrow or mint new assets in the system, this percentage is a yearly amount
-- Minting ucsdt (flat 2%)
-- Borrowing collateral (Explained below)
-Interest fee (Stability fee + Utilization ratio of market * 20%, explained below)
-Transaction fees (~%)
-Slashing (~%)
-Governance fees for proposals (~%)
-Dex trading fees (0.005% of trade)
-Coinswap fee (~%)
-Synthetic Short fee (~%)
+- Liquidation fee (1% of lot), liquidation fees occur when a CSDT position is liquidated because it is under collateralized. The system takes a percentage of the CSDT raised on the auction and deposits it into the distribution module.
+- Stability fee (2% configured via governance), the stability fee is the base cost to borrow or mint new assets in the system, this percentage is a yearly amount
+- - Minting ucsdt (flat 2%)
+- - Borrowing collateral (Explained below)
+- Interest fee (Stability fee + Utilization ratio of market * 20%, explained below)
+- Transaction fees (~%)
+- Slashing (~%)
+- Governance fees for proposals (~%)
+- Dex trading fees (0.005% of trade)
+- Coinswap fee (~%)
+- Synthetic Short fee (~%)
 
 Borrowing collateral interest fee;
 
