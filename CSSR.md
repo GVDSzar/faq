@@ -1,4 +1,4 @@
-##Collateral Sustainable Stable Rewards (CSSR)
+## Collateral Sustainable Stable Rewards (CSSR)
 
 Blockchains need to bootstrap their networks. To achieve this, they create inflationary models. Inflation decreases as transactional volume increases, until transactional fees are enough to cover the costs to maintain the network.
 
