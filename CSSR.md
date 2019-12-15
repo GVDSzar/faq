@@ -1,4 +1,4 @@
-##Collateral Sustainable Stable Rewards (CSSR)
+## Collateral Sustainable Stable Rewards (CSSR)
 
 Blockchains need to bootstrap their networks. To achieve this, they create inflationary models. Inflation decreases as transactional volume increases, until transactional fees are enough to cover the costs to maintain the network.
 
@@ -30,17 +30,17 @@ CSSR allows you to take any supported asset, collateralize it, mint Collateraliz
 
 The system has quite a few fees, so we will go through the straight forward ones first (all fees are controlled via on-chain parameter governance);
 
-Liquidation fee (1% of lot), liquidation fees occur when a CSDT position is liquidated because it is under collateralized. The system takes a percentage of the CSDT raised on the auction and deposits it into the distribution module.
-Stability fee (2% configured via governance), the stability fee is the base cost to borrow or mint new assets in the system, this percentage is a yearly amount
-- Minting ucsdt (flat 2%)
-- Borrowing collateral (Explained below)
-Interest fee (Stability fee + Utilization ratio of market * 20%, explained below)
-Transaction fees (~%)
-Slashing (~%)
-Governance fees for proposals (~%)
-Dex trading fees (0.005% of trade)
-Coinswap fee (~%)
-Synthetic Short fee (~%)
+- Liquidation fee (1% of lot), liquidation fees occur when a CSDT position is liquidated because it is under collateralized. The system takes a percentage of the CSDT raised on the auction and deposits it into the distribution module.
+- Stability fee (2% configured via governance), the stability fee is the base cost to borrow or mint new assets in the system, this percentage is a yearly amount
+  - Minting ucsdt (flat 2%)
+  - Borrowing collateral (Explained below)
+- Interest fee (Stability fee + Utilization ratio of market * 20%, explained below)
+- Transaction fees (~%)
+- Slashing (~%)
+- Governance fees for proposals (~%)
+- Dex trading fees (0.005% of trade)
+- Coinswap fee (~%)
+- Synthetic Short fee (~%)
 
 Borrowing collateral interest fee;
 
@@ -52,8 +52,8 @@ Borrowed amount / Borrowed amount + Lending amount
 
 Example
 
-90 borrowed 10 remaining = 90 / 90 + 10 (90%)
-10 borrowed 90 remaining = 10 / 10 + 90 (10%)
+90 borrowed 10 remaining = 90 / 90 + 10 (90%)  
+10 borrowed 90 remaining = 10 / 10 + 90 (10%)  
 
 Borrowing interest rate:
 
@@ -61,7 +61,7 @@ Stability fee + (Utilization * 20%)
 
 Example
 
-2% + (90% * 20%) = 20%
-2% + (10% * 20%) = 4%
+2% + (90% * 20%) = 20%  
+2% + (10% * 20%) = 4%  
 
 All the fees are distributed to CSDT stakers proportional to their CSDT stake.
