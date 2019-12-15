@@ -1,4 +1,4 @@
-##Xar Governance
+## Xar Governance
 
 There are 3 kinds of proposals in Xar
 
